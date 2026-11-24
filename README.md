@@ -6,7 +6,7 @@ Neighbr is a responsive, interactive frontend prototype for community water-leak
 
 ## Deployment URL
 ```bash
-https://gutinit-git-master-dinaaz-khans-projects.vercel.app/
+https://gutinit.vercel.app/
 ```
 
 ## Run locally
