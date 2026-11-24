@@ -4,6 +4,11 @@
 
 Neighbr is a responsive, interactive frontend prototype for community water-leak reporting and repair coordination. It uses realistic seeded records and browser storage so the full workflow can be demonstrated without external credentials.
 
+## Deployment URL
+```bash
+https://gutinit-git-master-dinaaz-khans-projects.vercel.app/
+```
+
 ## Run locally
 
 ```bash
